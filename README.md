@@ -1,4 +1,4 @@
-##Programming Assigment 2
+## Programming Assigment 2
 
 This is the activity for the course R-Porgramming to Coursera. The
 present is a local Fork repository that includes a solution code 
