@@ -1,6 +1,6 @@
 ## Programming Assigment 2
 
-This is the activity for the course R-Porgramming to Coursera. The
+This is the activity for R-Porgramming course to Coursera. The
 present is a local Fork repository that includes a solution code 
 for the activity.
 
